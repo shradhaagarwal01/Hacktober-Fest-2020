@@ -61,17 +61,6 @@ To qualify for the official limited edition Hacktoberfest shirt, you must regist
 
 ## Getting Started
 
-* Add your name to the CONTRIBUTORS.md file using following model
-
-```markdown
-Name: [YOUR NAME](Github Link)
-Place: city you belong to
-About: Short Intro (Optional)
-```
-## Support
-
-Check [Contribution](/CONTRIBUTION.md) Guide Before Contribution.
-
 ## Instructions:
 
 *Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on ``Sign up`` option at the top right corner.*
@@ -164,7 +153,7 @@ We’ll first go over configuring a remote for the fork, then syncing the fork.
 
 Next up, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
-##### ` git remote add upstream https://github.com/sujata13/HacktoberFest-2020 `
+##### ` git remote add upstream https://github.com/shradhaagarwal01/Hacktober-Fest-2020.git`
 
 In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
 
@@ -191,7 +180,8 @@ Navigate to your forked repository, and press the “New pull request” button 
 
 # Hurray! You just got closer to completing your Hacktoberfest challenge.
 
-Note : A star or a follow would be much appreciated
+Note : A star and a follow would be much appreciated. 
+Happy Hacking!
 
 
 
